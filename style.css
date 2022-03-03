@@ -2,6 +2,8 @@
 
 body {
     font-family: 'Oswald', sans-serif;  
+    background-color: black;
+    color: white;
 }
 h1{
     font-family: 'Syne Mono', monospace;
