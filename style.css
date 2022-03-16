@@ -13,4 +13,21 @@ h1{
 table, th, td {
     border: 1px solid orange;
   }
-
+input[type=submit] {
+    background-color: #ff8906;
+    padding:  7px;
+    border-radius: 7px;
+    opacity: 1;
+    color:white;
+}
+input[type=submit]:hover{
+    background-color: rgba(255, 153, 0, 0.658);
+    box-shadow: 0 12px 16px 0 white, 0 17px 50px 0 rgba(0,0,0,0.19);
+    
+}
+input[type=text] {
+    border: 2px solid #ff8906;
+    border-radius: 4px;
+    padding:5px;
+    
+}
