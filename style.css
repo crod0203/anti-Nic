@@ -42,3 +42,18 @@ h3{
     color:rgb(236, 75, 75); 
     
 }
+@media screen and (max-width:480px){ 
+    .float-right{
+        float:none;
+    }
+    p{
+        font-size:medium    
+    }
+    iframe{
+        height:60px;
+    }
+    #noVapes{
+        height:100;
+        width:100;
+    }
+}
