@@ -21,7 +21,7 @@ input[type=submit] {
     color:white;
 }
 input[type=submit]:hover{
-    background-color: rgba(255, 153, 0, 0.658);
+    background-color: (255, 153, 0, 0.658);
     box-shadow: 0 12px 16px 0 white, 0 17px 50px 0 rgba(0,0,0,0.19);
     
 }
@@ -29,5 +29,16 @@ input[type=text] {
     border: 2px solid #ff8906;
     border-radius: 4px;
     padding:5px;
+
+}
+.float-right{
+    float: right;
+}
+h3{
+    color:rgb(236, 75, 75); 
+    font-weight: bolder;
+}
+#Triggers{
+    color:rgb(236, 75, 75); 
     
 }
