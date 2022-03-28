@@ -57,3 +57,15 @@ h3{
         width:100;
     }
 }
+#Indexlist{
+    color:red; 
+
+    
+}
+a{
+    padding: 4px;
+    color: #ff8906;
+    text-decoration: none;}
+a:hover{
+    color:white;
+}
