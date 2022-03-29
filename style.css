@@ -34,6 +34,9 @@ input[type=text] {
 .float-right{
     float: right;
 }
+.float-left{
+    float: left;
+}
 h3{
     color:rgb(236, 75, 75); 
     font-weight: bolder;
@@ -71,5 +74,8 @@ a:hover{
     text-decoration: solid;
 }
 p{
+    font-size: large;
+}
+li{
     font-size: large;
 }
